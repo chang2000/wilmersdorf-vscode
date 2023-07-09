@@ -4,7 +4,7 @@
 		"editor.background": "#282b33",
 		"editor.foreground": "#c6c6c6",
 		"activityBarBadge.foreground": "#000000",
-		"activityBarBadge.background": "#c6c6c6", // the notification color
+		"activityBarBadge.background": "#c6c6c6",
 		"activityBar.foreground": "#b0a2e7",
 		"activityBar.background": "#18181f",
 		"activityBar.inactiveForeground": "#ffffff67",
@@ -279,7 +279,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#c792ea"
 			}
 		},
 		{
@@ -288,7 +288,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#c792ea"
 			}
 		},
 		{
@@ -392,7 +392,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#bbbbbb"
 			}
 		},
 		{
