@@ -1,16 +1,9 @@
-# wilmersdorf-vscode README
+# Wilmersdorf Theme for Visual Studio Code
 
-## Working with Markdown
+This repository contains a port of [Wilmersdorf theme](https://github.com/ianyepan/wilmersdorf-emacs-theme) port for Visual Studio Code, which is originally created by [Ian Pan](https://github.com/ianyepan) for Emacs. 
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Screenshots
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![jsmode](screenshots/scrn1.png)
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Not fully ported. Works well on JavaScript/TypeScript, Golang, Java and Python. Still needs work on Terminal, Markdown, json and dotfiles.
