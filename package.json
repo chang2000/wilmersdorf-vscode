@@ -4,6 +4,7 @@
   "description": "A port of Wilmersdorf color scheme",
   "version": "0.0.1",
   "author": "Tianchang Wang (Alex)",
+  "publisher": "TianchangWangAlex",
   "repository": {
     "type": "git",
     "url": "https://github.com/chang2000/wilmersdorf-vscode"
